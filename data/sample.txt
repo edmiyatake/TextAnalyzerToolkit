@@ -1,0 +1,8 @@
+The quick brown fox jumps over the lazy dog.
+This is a classic pangram used to test fonts and keyboards.
+It contains every letter of the English alphabet.
+
+Python is a great language for beginners and professionals.
+Simple syntax, powerful libraries, and vast community support.
+
+Let's analyze this text with our custom-built analyzer!
